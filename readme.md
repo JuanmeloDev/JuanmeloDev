@@ -1,7 +1,7 @@
 
 <h1 align="center">
 Welcom! My name is Juan José Melo.
-<img width="38%" src="Logo.PNG" style="margin: 10px;" />
+<img width="38%" src="Logo.png" style="margin: 10px;" />
 </h1>
 
 ### About me
